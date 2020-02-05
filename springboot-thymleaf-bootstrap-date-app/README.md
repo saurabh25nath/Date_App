@@ -9,5 +9,7 @@ The interval between the same Start Date and End Date is 0 days.
 ## To load the Application
 and navigate to http://localhost:9990/
 
-## File Path  You can see the Application Output ScreenShot at location :- springboot-thymleaf-bootstrap-date-app/output-screenshot
+## You can see the Application Output ScreenShot at location :- 
+springboot-thymleaf-bootstrap-date-app/output-screenshot
+
 
